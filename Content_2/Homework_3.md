@@ -15,19 +15,19 @@
 
 ## 1.2 Elain
 <div align="center">
-  <img src="https://github.com/James0618/Images/blob/master/Content_2/task1/elain.jpg?raw=True" width="20" height="20"/>
-  <img src="https://github.com/James0618/Images/blob/master/Content_2/task1/elain1.jpg?raw=True" width="20" height="20"/>
-  <img src="https://github.com/James0618/Images/blob/master/Content_2/task1/elain2.jpg?raw=True" width="20" height="20"/>
-  <img src="https://github.com/James0618/Images/blob/master/Content_2/task1/elain3.jpg?raw=True" width="20" height="20"/>
+  <img src="https://github.com/James0618/Images/blob/master/Content_2/task1/elain.jpg?raw=True" width="20%" height="20%"/>
+  <img src="https://github.com/James0618/Images/blob/master/Content_2/task1/elain1.jpg?raw=True" width="20%" height="20%"/>
+  <img src="https://github.com/James0618/Images/blob/master/Content_2/task1/elain2.jpg?raw=True" width="20%" height="20%"/>
+  <img src="https://github.com/James0618/Images/blob/master/Content_2/task1/elain3.jpg?raw=True" width="20%" height="20%"/>
 </div>
 <div align="center"> Figure1.2 Elain </div>
 
 ## 1.3 Lena
 <div align="center">
-  <img src="https://github.com/James0618/Images/blob/master/Content_2/task1/lena.jpg?raw=True" width="20" height="20"/>
-  <img src="https://github.com/James0618/Images/blob/master/Content_2/task1/lena1.jpg?raw=True" width="20" height="20"/>
-  <img src="https://github.com/James0618/Images/blob/master/Content_2/task1/lena2.jpg?raw=True" width="20" height="20"/>
-  <img src="https://github.com/James0618/Images/blob/master/Content_2/task1/lena4.jpg?raw=True" width="20" height="20"/>
+  <img src="https://github.com/James0618/Images/blob/master/Content_2/task1/lena.jpg?raw=True" width="20%" height="20%"/>
+  <img src="https://github.com/James0618/Images/blob/master/Content_2/task1/lena1.jpg?raw=True" width="20%" height="20%"/>
+  <img src="https://github.com/James0618/Images/blob/master/Content_2/task1/lena2.jpg?raw=True" width="20%" height="20%"/>
+  <img src="https://github.com/James0618/Images/blob/master/Content_2/task1/lena4.jpg?raw=True" width="20%" height="20%"/>
 </div>
 <div align="center"> Figure1.3 Lena </div>
 
