@@ -118,9 +118,9 @@
 <div align="center">
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task3/woman.jpg?raw=True" width="75%" height="75%"/>
 </div>
-<div align="center"> Figure3.4.1 Lena </div>
+<div align="center"> Figure3.4.1 Woman </div>
 
 <div align="center">
-  <img src="https://github.com/James0618/Images/blob/master/Content_2/task3/woman.jpg?raw=True" width="75%" height="75%"/>
+  <img src="https://github.com/James0618/Images/blob/master/Content_2/task3/woman2.jpg?raw=True" width="75%" height="75%"/>
 </div>
-<div align="center"> Figure3.4.2 Lena </div>
+<div align="center"> Figure3.4.2 Woman </div>
