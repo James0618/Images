@@ -41,7 +41,7 @@
 
 # 2. 直方图均衡
 <br>  对于离散取值的图片，使用其概率与求和代替处理概率密度与积分，使用直方图均衡对图片进行处理，从结果可以看到进行直方图均衡后的图片，其直方图较为平滑，分布更加均匀。</br>
-## 1.1 CityWall
+## 2.1 CityWall
 <div align="center">
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task2/citywall.jpg?raw=True" width="25%" height="25%"/>
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task2/citywall1.jpg?raw=True" width="25%" height="25%"/>
@@ -49,7 +49,7 @@
 </div>
 <div align="center"> Figure2.1 Equalized CityWall </div>
 
-## 1.2 Elain
+## 2.2 Elain
 <div align="center">
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task2/elain.jpg?raw=True" width="20%" height="20%"/>
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task2/elain1.jpg?raw=True" width="20%" height="20%"/>
@@ -58,7 +58,7 @@
 </div>
 <div align="center"> Figure2.2 Equalized Elain </div>
 
-## 1.3 Lena
+## 2.3 Lena
 <div align="center">
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task2/lena.jpg?raw=True" width="20%" height="20%"/>
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task2/lena1.jpg?raw=True" width="20%" height="20%"/>
@@ -67,7 +67,7 @@
 </div>
 <div align="center"> Figure2.3 Equalized Lena </div>
 
-## 1.4 Woman
+## 2.4 Woman
 <div align="center">
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task2/woman.jpg?raw=True" width="25%" height="25%"/>
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task2/woman1.jpg?raw=True" width="25%" height="25%"/>
