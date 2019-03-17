@@ -10,7 +10,7 @@
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task6/test1_gaussian_7.jpg?raw=True" width="30%" height="30%"/>
 </div>
 <div align="center"> Figure1.1 Test1 Filted by Gaussian Filter </div>
-
+<br></br>
 <div align="center">
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task6/test2_gaussian_3.jpg?raw=True" width="30%" height="30%"/>
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task6/test2_gaussian_5.jpg?raw=True" width="30%" height="30%"/>
