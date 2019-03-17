@@ -11,6 +11,6 @@
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task1/citywall1.jpg?raw=True" width="25%" height="25%"/>
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task1/citywall2.jpg?raw=True" width="25%" height="25%"/>
 </div>
-<center>Figure1 CityWall</center>
+< center>Figure1 CityWall< /center>
 
 
