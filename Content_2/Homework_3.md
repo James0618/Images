@@ -1,3 +1,6 @@
+<style type="text/css">  
+html{ text-indent:2em;}  
+</style>
 # 直方图增强
 
 ---
