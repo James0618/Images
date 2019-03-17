@@ -125,7 +125,7 @@
 ## 5.1 基于双峰平均值的阈值法
 <br>在基于双峰平均值的阈值法中，实现了一个迭代的过程。每次处理前对直方图数据进行判断，看其是否已经是一个双峰的直方图，如果不是，则对直方图数据进行半径为1（窗口大小为3）的平滑，如果迭代了一定的数量比如1000次后仍未获得一个双峰的直方图，则函数执行失败，如成功获得，则最终阈值取两个双峰的平均值作为阈值。得到如下图所示结果：</br>
 <div align="center">
-  <img src="https://github.com/James0618/Images/blob/master/Content_2/task5/elain/ealin_doublePeak.bmp?raw=True" width="75%" height="75%"/>
+  <img src="https://github.com/James0618/Images/blob/master/Content_2/task5/elain/elain_doublePeak.bmp?raw=True" width="75%" height="75%"/>
 </div>
 <div align="center"> Figure5.1 Elain </div>
 <br>由于Woman图像在多次迭代后仍不是双峰图像，因此并没有对Woman图像的该算法处理结果。</br>
@@ -133,12 +133,12 @@
 ## 5.2 迭代最佳阈值法
 <br>该算法先假定一个阈值，然后计算在该阈值下的前景和背景的中心值，当前景和背景中心值得平均值和假定的阈值相同时，则迭代中止，并以此值为阈值进行二值化。</br>
 <div align="center">
-  <img src="https://github.com/James0618/Images/blob/master/Content_2/task5/elain/ealin_iteration.bmp?raw=True" width="75%" height="75%"/>
+  <img src="https://github.com/James0618/Images/blob/master/Content_2/task5/elain/elain_iteration.bmp?raw=True" width="75%" height="75%"/>
 </div>
 <div align="center"> Figure5.2 Elain_Iteration </div>
 
 <div align="center">
-  <img src="https://github.com/James0618/Images/blob/master/Content_2/task5/elain/woman_iteration.bmp?raw=True" width="75%" height="75%"/>
+  <img src="https://github.com/James0618/Images/blob/master/Content_2/task5/woman/woman_iteration.bmp?raw=True" width="75%" height="75%"/>
 </div>
 <div align="center"> Figure5.3 Woman_Iteration </div>
 <br>从结果中可以看到，与双峰法不同，双峰法的阈值更大，将更多的像素点判断为背景并显示为黑色，但是保留了更多的细节，总体的表现要由于表现效果不稳定的双峰法。</br>
@@ -147,12 +147,12 @@
 <br>OTSU算法又称为最大类间方差法,对于一幅图像，设当前景与背景的分割阈值为t时，前景点占图像比例为w0，均值为u0，背景点占图像比例为w1，均值为u1。则整个图像的均值为u=w0\*u0+w1\*u1。建立目标函数g(t)=w0\*(u0-u)^2+w1\*(u1-u)^2，g(t)就是当分割阈值为t时的类间方差表达式。OTSU算法使得g(t)取得全局最大值，当g(t)为最大时所对应的t称为最佳阈值。以下为使用OSTU法计算得到的阈值进行分割的结果：</br>
 
 <div align="center">
-  <img src="https://github.com/James0618/Images/blob/master/Content_2/task5/elain/ealin_OSTU.bmp?raw=True" width="75%" height="75%"/>
+  <img src="https://github.com/James0618/Images/blob/master/Content_2/task5/elain/elain_OSTU.bmp?raw=True" width="75%" height="75%"/>
 </div>
 <div align="center"> Figure5.4 Elain_OSTU </div>
 
 <div align="center">
-  <img src="https://github.com/James0618/Images/blob/master/Content_2/task5/elain/woman_OSTU.bmp?raw=True" width="75%" height="75%"/>
+  <img src="https://github.com/James0618/Images/blob/master/Content_2/task5/woman/woman_OSTU.bmp?raw=True" width="75%" height="75%"/>
 </div>
 <div align="center"> Figure5.5 Woman_OSTU </div>
 <br>可以清晰地看到，OSTU法分割的效果要远远优于前两个算法，该算法更能从大体上反应图像的真实情况，在细节和图像全局信息上都处理的很出色。</br>
