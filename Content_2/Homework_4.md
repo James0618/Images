@@ -26,7 +26,7 @@
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task6/test1_median_7.jpg?raw=True" width="30%" height="30%"/>
 </div>
 <div align="center"> Figure1.1 Test1 Filted by Median Filter </div>
-
+<br></br>
 <div align="center">
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task6/test2_median_3.jpg?raw=True" width="30%" height="30%"/>
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task6/test2_median_5.jpg?raw=True" width="30%" height="30%"/>
@@ -65,13 +65,13 @@
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task8/test3_sobel.jpg?raw=True" width="30%" height="30%"/>
 </div>
 <div align="center"> Figure3.2 Sobel Edge Detector for test3 </div>
-
+<br></br>
 <div align="center">
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task8/test4_sobelx.jpg?raw=True" width="30%" height="30%"/>
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task8/test4_sobely.jpg?raw=True" width="30%" height="30%"/>
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task8/test4_sobel.jpg?raw=True" width="30%" height="30%"/>
 </div>
-<div align="center"> Figure3.3 Sobel Edge Detector for test3 </div>
+<div align="center"> Figure3.3 Sobel Edge Detector for test4 </div>
 <br>以上图像从左至右分别是对图像的x方向和y方向进行Sobel边缘检测和二者加和的结果。</br>
 
 ## 3.3 Laplace Edge Detector
@@ -80,7 +80,7 @@
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task8/test3_laplacian.jpg?raw=True" width="40%" height="40%"/>
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task8/test4_laplacian.jpg?raw=True" width="40%" height="40%"/>
 </div>
-<div align="center"> Figure3.4 Sobel Edge Detector for test3 </div>
+<div align="center"> Figure3.4 Sobel Edge Detector </div>
 
 ## 3.4 Canny Edge Detector
 <br>Canny 的目标是找到一个最优的边缘检测算法，最优边缘检测的含义是：</br>
@@ -94,7 +94,7 @@
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task8/test3_canny_100-200.jpg?raw=True" width="30%" height="30%"/>
 </div>
 <div align="center"> Figure3.5 Canny Edge Detector for test3 </div>
-
+<br></br>
 <div align="center">
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task8/test4_canny_25-75.jpg?raw=True" width="30%" height="30%"/>
   <img src="https://github.com/James0618/Images/blob/master/Content_2/task8/test4_canny_50-100.jpg?raw=True" width="30%" height="30%"/>
