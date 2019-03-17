@@ -81,25 +81,25 @@
 <br>  直方图规定化在原理上十分简单，而且在连续像素分布时能达到目标图像的直方图，但是在实际中的图像是离散像素分布，从下图中我们就可以看到其表现并不出色。本次直方图规定化选取原图的直方图作为目标直方图，下图中从上到下分别是原图、直方图均衡后的图像、进行规定化后的图像。</br>
 ## 3.1 CityWall
 <div align="center">
-  <img src="https://github.com/James0618/Images/blob/master/Content_2/task3/citywall2.jpg?raw=True" width="75%" height="75%"/>
+  <img src="https://github.com/James0618/Images/blob/master/Content_2/task3/citywall2.jpg?raw=True" width="50%" height="50%"/>
 </div>
 <div align="center"> Figure3.1. Specified CityWall </div>
 
 ## 3.2 Elain
 <div align="center">
-  <img src="https://github.com/James0618/Images/blob/master/Content_2/task3/elain2.jpg?raw=True" width="75%" height="75%"/>
+  <img src="https://github.com/James0618/Images/blob/master/Content_2/task3/elain2.jpg?raw=True" width="50%" height="50%"/>
 </div>
 <div align="center"> Figure3.2 Specified Elain </div>
 
 ## 3.3 Lena
 <div align="center">
-  <img src="https://github.com/James0618/Images/blob/master/Content_2/task3/lena2.jpg?raw=True" width="75%" height="75%"/>
+  <img src="https://github.com/James0618/Images/blob/master/Content_2/task3/lena2.jpg?raw=True" width="50%" height="50%"/>
 </div>
 <div align="center"> Figure3.3 Specified Lena </div>
 
 ## 3.4 Woman
 <div align="center">
-  <img src="https://github.com/James0618/Images/blob/master/Content_2/task3/woman.jpg?raw=True" width="75%" height="75%"/>
+  <img src="https://github.com/James0618/Images/blob/master/Content_2/task3/woman.jpg?raw=True" width="50%" height="50%"/>
 </div>
 <div align="center"> Figure3.4 Specified Woman </div>
 
